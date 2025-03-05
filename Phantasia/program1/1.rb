@@ -1,0 +1,1 @@
+puts gets.chars.map(&:ord).sum

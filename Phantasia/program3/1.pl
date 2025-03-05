@@ -1,0 +1,1 @@
+print unpack"%C*",shift

@@ -1,0 +1,84 @@
+{
+    "Hantong": {
+        "projects": {
+            "RustForFun": {
+                "score": 11824,
+                "details": [
+                    [
+                        "Hantong\\RustForFun\\main",
+                        0
+                    ],
+                    [
+                        "Hantong\\RustForFun\\main.rs",
+                        11824
+                    ]
+                ]
+            }
+        },
+        "best_program": [
+            "RustForFun",
+            11824
+        ]
+    },
+    "HisAtri": {
+        "projects": {
+            "JustForFun": {
+                "score": 3461,
+                "details": [
+                    [
+                        "HisAtri\\JustForFun\\main.py",
+                        3461
+                    ]
+                ]
+            }
+        },
+        "best_program": [
+            "JustForFun",
+            3461
+        ]
+    },
+    "Phantasia": {
+        "projects": {
+            "program1": {
+                "score": 2755,
+                "details": [
+                    [
+                        "Phantasia\\program1\\1.rb",
+                        2755
+                    ]
+                ]
+            },
+            "program2": {
+                "score": 2479,
+                "details": [
+                    [
+                        "Phantasia\\program2\\1.py",
+                        2479
+                    ]
+                ]
+            },
+            "program3": {
+                "score": 2031,
+                "details": [
+                    [
+                        "Phantasia\\program3\\1.pl",
+                        2031
+                    ]
+                ]
+            },
+            "whoami": {
+                "score": 1314,
+                "details": [
+                    [
+                        "Phantasia\\whoami\\2.rb",
+                        1314
+                    ]
+                ]
+            }
+        },
+        "best_program": [
+            "whoami",
+            1314
+        ]
+    }
+}
