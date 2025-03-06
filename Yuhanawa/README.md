@@ -16,3 +16,7 @@
   - 双击运行
 - Rust 得分： 7820
   - `rustc main.rs --edition=2024`
+
+- TS 得分： 7590918072
+  - `npm i`
+  - `npx tsx .\main.ts`
