@@ -48,11 +48,12 @@ E.g.
 | 2 | Yuhanawa | MATLAB | 1243 | MATLAB | ? |
 | 3 | [steve02081504](https://github.com/steve02081504) | [test6](./steve02081504/test6) | 1924 | [PowerShell](https://github.com/PowerShell/PowerShell) | 啊？|
 | 4 | agluo | funny3 | 1997 | Perl | trytry |
-| 5 | hwang | PythonForFun| 2450|Python| 再极限也没用！|
-| 6 | 1222qs | PythonForFun | 2479 | Python | 你的留言 |
-| 7 | MirageTurtle | ElispForFun | 2496 | Elisp | 其实不会 Elisp |
-| 8 | LiBr | fun_python | 3155 | Python | 极限压行！|
-| 9 | Hantong | RustForFun | 11824 | Rust | Rust 还能更少么 |
+| 5 | faithererer | Ruby | 2144 | Ruby | 😆|
+| 6 | hwang | PythonForFun| 2450|Python| 再极限也没用！|
+| 7 | 1222qs | PythonForFun | 2479 | Python | 你的留言 |
+| 8 | MirageTurtle | ElispForFun | 2496 | Elisp | 其实不会 Elisp |
+| 9 | LiBr | fun_python | 3155 | Python | 极限压行！|
+| 10 | Hantong | RustForFun | 11824 | Rust | Rust 还能更少么 |
 
 ## 奖品
 
