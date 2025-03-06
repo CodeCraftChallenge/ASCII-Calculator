@@ -54,6 +54,7 @@ E.g.
 | 8 | MirageTurtle | ElispForFun | 2496 | Elisp | 其实不会 Elisp |
 | 9 | LiBr | fun_python | 3155 | Python | 极限压行！|
 | 10 | Hantong | RustForFun | 11824 | Rust | Rust 还能更少么 |
+| 11 | orion | cpp | 37657 | C++ | 咕, 杀了我 |
 
 ## 奖品
 
