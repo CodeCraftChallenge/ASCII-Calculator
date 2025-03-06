@@ -1,0 +1,1 @@
+print(sum([ord(a) for a in input()]))

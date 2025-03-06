@@ -1,0 +1,1 @@
+[...prompt()].reduce(($,A)=>$+A.charCodeAt(),0)

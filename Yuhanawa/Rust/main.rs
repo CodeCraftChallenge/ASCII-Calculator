@@ -1,0 +1,1 @@
+fn main(){print!("{}",std::io::stdin().lines().next().unwrap().unwrap().bytes().sum::<u8>())}

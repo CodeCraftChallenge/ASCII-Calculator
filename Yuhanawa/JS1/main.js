@@ -1,0 +1,1 @@
+$=0;for(A of prompt())$+=A.charCodeAt()

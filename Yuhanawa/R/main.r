@@ -1,0 +1,1 @@
+sum(utf8ToInt(scan(,"")))

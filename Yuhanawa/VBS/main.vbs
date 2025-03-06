@@ -1,0 +1,1 @@
+B=InputBox(""):For C=1To Len(B):A=A+Asc(Mid(B,C,1)):Next:MsgBox A
