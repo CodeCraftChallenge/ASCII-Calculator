@@ -39,6 +39,19 @@
     },
     "Phantasia": {
         "projects": {
+            "golfscript": {
+                "score": 343,
+                "details": [
+                    [
+                        "Phantasia\\golfscript\\1.gs",
+                        343
+                    ],
+                    [
+                        "Phantasia\\golfscript\\golf",
+                        0
+                    ]
+                ]
+            },
             "whoami": {
                 "score": 966,
                 "details": [
@@ -50,8 +63,8 @@
             }
         },
         "best_program": [
-            "whoami",
-            966
+            "golfscript",
+            343
         ]
     }
 }

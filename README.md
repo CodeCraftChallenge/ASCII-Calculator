@@ -44,7 +44,7 @@ E.g.
 
 | 排名 | 作者 | 项目 | 分数 | 语言 | 你的留言 |
 | :--: | :--: | :--: | :--: | :--: | :--: |
-| 1 | Phantasia | whoami | 966 | Ruby | 没力气了 |
+| 1 | Phantasia | golfscript | 343 | golfscript | 没力气了 |
 | 2 | HisAtri | JustForFun | 3461 | Python | 玩一玩而已 |
 | 3 | Hantong | RustForFun | 11824 | Rust | Rust 还能更少么 |
 
