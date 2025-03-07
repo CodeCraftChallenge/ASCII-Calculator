@@ -1,0 +1,21 @@
+{
+  "name": "ascii-calculator",
+  "version": "1.0.0",
+  "description": "ascii-calculator powered by typescript",
+  "scripts": {
+    "run": ""
+  },
+  "keywords": [
+    "ascii",
+    "typescript"
+  ],
+  "author": "Yuhanawa",
+  "license": "MIT",
+  "devDependencies": {
+    "@types/node": "^22.13.9"
+  },
+  "dependencies": {
+    "tsx": "^4.19.3",
+    "typescript": "^5.8.2"
+  }
+}
