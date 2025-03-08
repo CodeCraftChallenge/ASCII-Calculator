@@ -1,3 +1,5 @@
+## Score: 1583
+
 ## Language: Ruby
 ```ruby
 p$<.each_byte.sum
