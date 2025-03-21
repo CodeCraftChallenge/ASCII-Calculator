@@ -54,8 +54,9 @@ E.g.
 | 8 | 1222qs | PythonForFun | 2479 | Python | 你的留言 |
 | 9 | MirageTurtle | ElispForFun | 2496 | Elisp | 其实不会 Elisp |
 | 10 | LiBr | fun_python | 3155 | Python | 极限压行！|
-| 11 | Hantong | RustForFun | 11824 | Rust | Rust 还能更少么 |
-| 12 | orion | cpp | 37657 | C++ | 咕, 杀了我 |
+| 11 | AetherRadar | kotlin | 3799 | kotlin |  ...... |
+| 12 | Hantong | RustForFun | 11824 | Rust | Rust 还能更少么 |
+| 13 | orion | cpp | 37657 | C++ | 咕, 杀了我 |
 
 ## 奖品
 
