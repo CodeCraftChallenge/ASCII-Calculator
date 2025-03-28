@@ -44,7 +44,7 @@ E.g.
 
 | 排名 | 作者 | 项目 | 分数 | 语言 | 你的留言 |
 | :--: | :--: | :--: | :--: | :--: | :--: |
-| 1 | Phantasia | whoami | 966 | Ruby | 没力气了 |
+| 1 | [Phantasia](https://linux.do/u/phantasia) | whoami | 966 | Ruby | 没力气了 |
 | 2 | Yuhanawa | MATLAB | 1243 | MATLAB | ? |
 | 3 | Yanlin-Duanmu | ruby | 1583 | Ruby | ;) |
 | 4 | [steve02081504](https://github.com/steve02081504) | [test6](./steve02081504/test6) | 1924 | [PowerShell](https://github.com/PowerShell/PowerShell) | 啊？|
