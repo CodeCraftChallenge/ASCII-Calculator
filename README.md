@@ -46,7 +46,7 @@ E.g.
 | :--: | :--: | :--: | :--: | :--: | :--: |
 | 1 | [Phantasia](https://linux.do/u/phantasia/summary) | whoami | 966 | Ruby | 没力气了 |
 | 2 | [Yuhanawa](https://linux.do/u/yuhanawa/summary) | MATLAB | 1243 | MATLAB | ? |
-| 3 | Yanlin-Duanmu | ruby | 1583 | Ruby | ;) |
+| 3 | [Yanlin-Duanmu](https://linux.do/u/jacey_huber/summary) | ruby | 1583 | Ruby | ;) |
 | 4 | [steve02081504](https://github.com/steve02081504) | [test6](./steve02081504/test6) | 1924 | [PowerShell](https://github.com/PowerShell/PowerShell) | 啊？|
 | 5 | agluo | funny3 | 1997 | Perl | trytry |
 | 6 | faithererer | Ruby | 2144 | Ruby | 😆|
